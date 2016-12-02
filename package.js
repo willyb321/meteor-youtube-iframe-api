@@ -1,7 +1,7 @@
 Package.describe({
   summary: "Youtube Iframe API",
-  version: "1.3.122",
-  git: "http://github.com/adrianliaw/meteor-youtube-iframe-api.git"
+  version: "1.4",
+  git: "http://github.com/willyb321/meteor-youtube-iframe-api.git"
 });
 
 Package.onUse(function(api) {
